@@ -1,5 +1,5 @@
 <h1>Prazer, me chamo Marcos 👋</h1>
-<a href="https://www.linkedin.com/in/marcos-vinicios-arcie-falcade-a727b4262/" target="_blank">
+<a href="https://www.linkedin.com/in/marcos-vinicios-arcie-falcade-a727b4262/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p>Sou estudante de análise e desenvolvimento de sistemas</p>
